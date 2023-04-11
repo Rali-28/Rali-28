@@ -5,4 +5,5 @@
 
 <div id="badge">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Codewars-black?logo=codewars&logoColor=red&style=for-the-badge"/>
 </div>
