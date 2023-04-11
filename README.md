@@ -9,4 +9,8 @@
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Rali-82&style=flat-square&color=blue" alt="Github Profile Views Counter Badge"/>
+    <h1>
+        tuloy po kayo
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>  
 </div>
